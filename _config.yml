@@ -23,7 +23,7 @@ collections:
     output: true
     permalink: /:path/
 
-# Front Matter Defaults
+# Front Matter Default
 defaults:
   - scope:
       path: "_docs"
